@@ -40,6 +40,7 @@ jobs:
             CUSTOM_GCC_32_BRANCH
             CUSTOM_GCC_32_BIN
             ENABLE_KERNELSU
+            KERNELSU_SCRIPT
             KERNELSU_TAG
             ADD_KPROBES_CONFIG
             DISABLE-LTO
